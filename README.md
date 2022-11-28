@@ -23,3 +23,10 @@ void main() async {
   );
   
 추가
+
+
+- ios 연동 
+.list 파일 runnuer 에 추가
+.list revered_client_id 복사
+target runner url type- url schemas에 붙여넣기
+pod init -> install -> flutter run
